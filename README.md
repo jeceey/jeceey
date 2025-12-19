@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-My name is Jean-Charles Ekoue-Kouvahey, I'm a bioengineering student at the *Catholic University of Louvain*.
+My name is Jean-Charles Ekoue-Kouvahey, I'm a biology student at the *Catholic University of Louvain*.
 - 🧪 Science enthusiast
 - 😴 Professional procrastinator
 - 🌱 I’m currently learning everything 
