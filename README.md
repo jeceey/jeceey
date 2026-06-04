@@ -27,16 +27,6 @@ My name is Jean-Charles Ekoue-Kouvahey, I'm a biology student at the *Catholic U
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<br />
-<br />
-
----
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="Jeceey's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jeceey&theme=dark&show_icons=true&hide_border=true" />
-</details>
-
 
 [website]: https://jckouvahey.be
 [bluesky]: https://bsky.app/profile/jeceey.bsky.social
