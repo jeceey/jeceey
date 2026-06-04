@@ -9,7 +9,6 @@ My name is Jean-Charles Ekoue-Kouvahey, I'm a biology student at the *Catholic U
 
 #### How to reach me?
 [<img align="left" alt="My personal website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Jeceey on Bluesky" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@13.20.0/icons/bluesky.svg" />][bluesky]
 [<img align="left" alt="Jean-Charles Ekoue-Kouvahey | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
